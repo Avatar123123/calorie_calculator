@@ -1,0 +1,14 @@
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/bin/Debug/net8.0/exercise_calCalculator
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/bin/Debug/net8.0/exercise_calCalculator.deps.json
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/bin/Debug/net8.0/exercise_calCalculator.runtimeconfig.json
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/bin/Debug/net8.0/exercise_calCalculator.dll
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/bin/Debug/net8.0/exercise_calCalculator.pdb
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/exercise_calCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/exercise_calCalculator.AssemblyInfoInputs.cache
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/exercise_calCalculator.AssemblyInfo.cs
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/exercise_calCalculator.csproj.CoreCompileInputs.cache
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/exercise_calCalculator.dll
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/refint/exercise_calCalculator.dll
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/exercise_calCalculator.pdb
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/exercise_calCalculator.genruntimeconfig.cache
+/Users/ronaccount/Documents/Project/C#/exercise_calCalculator/obj/Debug/net8.0/ref/exercise_calCalculator.dll
